@@ -1,5 +1,5 @@
 package Solution;
-
+//어려운 문제여서 다른사람 풀이를 
 public class Number_Baseball {
 	public int solution(int[][] baseball) {
 		int[][] a = new int[baseball.length][5];
